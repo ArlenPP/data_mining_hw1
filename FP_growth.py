@@ -1,9 +1,11 @@
 import function as fu
 import fp_growth_fun as fp
 from config import config
+import datetime
 
 
 if __name__ == '__main__':
+    before = datetime.datetime.now()
     data= 'stocks'
     f = open(config['result_path'] + "FP_" + data, newline='\n', mode='w')
 
@@ -36,5 +38,8 @@ if __name__ == '__main__':
     output_dict = fu.sort_dict_keys(output_dict) 
     for key, value in output_dict.items():
         fu.write_report_cond_num(f, key, value)
+    after = datetime.datetime.now()
+    s = "執行時間(分): " + str((after - before).total_seconds() / 60)
+    fu.write_report(f, s)
     
     

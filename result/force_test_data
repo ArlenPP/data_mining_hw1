@@ -5,11 +5,17 @@ condidate: ['Coffee'], and count = 2
 condidate: ['Egg'], and count = 6
 condidate: ['Milk'], and count = 6
 condidate: ['Beer', 'Bread'], and count = 2
+condidate: ['Beer', 'Egg'], and count = 1
 condidate: ['Beer', 'Milk'], and count = 2
 condidate: ['Bread', 'Coffee'], and count = 2
+condidate: ['Bread', 'Milk'], and count = 4
 condidate: ['Bread', 'Egg'], and count = 4
 condidate: ['Egg', 'Milk'], and count = 4
-condidate: ['Bread', 'Milk'], and count = 4
+condidate: ['Coffee', 'Milk'], and count = 1
 condidate: ['Beer', 'Bread', 'Milk'], and count = 2
+condidate: ['Beer', 'Bread', 'Egg'], and count = 1
+condidate: ['Beer', 'Egg', 'Milk'], and count = 1
+condidate: ['Bread', 'Coffee', 'Milk'], and count = 1
 condidate: ['Bread', 'Egg', 'Milk'], and count = 2
-執行時間(分): 7.233333333333333e-06
+condidate: ['Beer', 'Bread', 'Egg', 'Milk'], and count = 1
+執行時間(分): 1.3066666666666666e-05
