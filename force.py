@@ -12,7 +12,7 @@ if __name__ == '__main__':
     min_sup = fu.decide_min_sup(tran_log_list, f)
     
     before = datetime.datetime.now()
-    print("start: " + before.strftime("%H:%S:%m"))
+    print("start: " + before.strftime("%H:%M:%S"))
     cond_dict = fu.force_counter(tran_log_list, log_set, min_sup, f)
     after = datetime.datetime.now()
     s = "執行時間(分): " + str((after - before).total_seconds() / 60)

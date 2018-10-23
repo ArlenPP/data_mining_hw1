@@ -62,7 +62,7 @@ def force_counter(tran_log_list, log_set, min_sup, f):
             if count >= min_sup:
                 s = "condidate: " + str(tmp_cond) + ", and count = " + str(count)
                 write_report(f, s)
-                cond_dict[str(tmp_cond)]: count
+                cond_dict[str(tmp_cond)]= count
     return cond_dict
 
 def decide_min_sup(tran_log, f):
@@ -79,6 +79,9 @@ def write_report(file, msg):
 def count_cond_sup(cond, tran_log):
     log_set = []
     cond_set = set(cond)
+    # print(cond,type(cond))
+    # print(cond_set, type(cond_set))
+    # exit()
     count = 0
     for log in tran_log:
         log_set.append(set(log))
@@ -86,4 +89,17 @@ def count_cond_sup(cond, tran_log):
         if cond_set.issubset(log):
             count += 1
     return count
+
+def FP_growth_step1(tran_log, log_set):
+    d = {}
+    log_set_list = list(log_set)
+    log_set_list.sort()
+    for s in log_set_list:
+        tmp = []
+        tmp.append(s)
+        count = count_cond_sup(tmp, tran_log)
+        d[s]= count
+    sorted_dict = [(k, d[k]) for k in sorted(d, key=d.get, reverse=True)]
+    return sorted_dict
+
     
