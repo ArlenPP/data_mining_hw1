@@ -3,7 +3,7 @@ import function as fu
 import datetime
 
 if __name__ == '__main__':
-    data = 'test_data'
+    data = 'data.ntrans_10.nitems_0.01.tlen_5'
     cond_dict = {}
     f = open(config['result_path'] + "force_" + data, newline='\n', mode='w')
 

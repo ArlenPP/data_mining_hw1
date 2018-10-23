@@ -27,6 +27,8 @@ def force_counter(tran_log_list, log_set, min_sup, f):
     # 找出所有可能的condidate 從c1 ~ c len
     for n in range(len(log_set)):
         n = n + 1
+        # if n == 4:
+        #     return cond_dict
         tmp = list(combinations(log_set, n))
         tmp.sort()
         print("N = %d Len = %d" % (n, len(tmp)))

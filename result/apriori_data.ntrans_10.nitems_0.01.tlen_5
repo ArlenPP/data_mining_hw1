@@ -1,0 +1,144 @@
+min_sup = 829
+Condidate: ['0', '3', '4', '8', '9'] and number: 912
+Condidate: ['0', '3', '4', '8'] and number: 1119
+Condidate: ['0', '3', '4', '9'] and number: 1024
+Condidate: ['0', '3', '4'] and number: 1265
+Condidate: ['0', '3', '5', '7', '8'] and number: 910
+Condidate: ['0', '3', '5', '7', '9'] and number: 854
+Condidate: ['0', '3', '5', '7'] and number: 1006
+Condidate: ['0', '3', '5', '8', '9'] and number: 1245
+Condidate: ['0', '3', '5', '8'] and number: 1520
+Condidate: ['0', '3', '5', '9'] and number: 1406
+Condidate: ['0', '3', '5'] and number: 1740
+Condidate: ['0', '3', '6', '7'] and number: 833
+Condidate: ['0', '3', '6', '8', '9'] and number: 1025
+Condidate: ['0', '3', '6', '8'] and number: 1222
+Condidate: ['0', '3', '6', '9'] and number: 1127
+Condidate: ['0', '3', '6'] and number: 1394
+Condidate: ['0', '3', '7', '8', '9'] and number: 1254
+Condidate: ['0', '3', '7', '8'] and number: 1501
+Condidate: ['0', '3', '7', '9'] and number: 1413
+Condidate: ['0', '3', '7'] and number: 1715
+Condidate: ['0', '3', '8', '9'] and number: 2084
+Condidate: ['0', '3', '8'] and number: 2641
+Condidate: ['0', '3', '9'] and number: 2437
+Condidate: ['0', '3'] and number: 3158
+Condidate: ['0', '4', '5'] and number: 860
+Condidate: ['0', '4', '7'] and number: 895
+Condidate: ['0', '4', '8', '9'] and number: 1082
+Condidate: ['0', '4', '8'] and number: 1351
+Condidate: ['0', '4', '9'] and number: 1228
+Condidate: ['0', '4'] and number: 1552
+Condidate: ['0', '5', '6', '8'] and number: 868
+Condidate: ['0', '5', '6'] and number: 975
+Condidate: ['0', '5', '7', '8', '9'] and number: 875
+Condidate: ['0', '5', '7', '8'] and number: 1038
+Condidate: ['0', '5', '7', '9'] and number: 981
+Condidate: ['0', '5', '7'] and number: 1171
+Condidate: ['0', '5', '8', '9'] and number: 1466
+Condidate: ['0', '5', '8'] and number: 1812
+Condidate: ['0', '5', '9'] and number: 1688
+Condidate: ['0', '5'] and number: 2118
+Condidate: ['0', '6', '7', '8'] and number: 867
+Condidate: ['0', '6', '7'] and number: 972
+Condidate: ['0', '6', '8', '9'] and number: 1209
+Condidate: ['0', '6', '8'] and number: 1474
+Condidate: ['0', '6', '9'] and number: 1361
+Condidate: ['0', '6'] and number: 1720
+Condidate: ['0', '7', '8', '9'] and number: 1467
+Condidate: ['0', '7', '8'] and number: 1795
+Condidate: ['0', '7', '9'] and number: 1688
+Condidate: ['0', '7'] and number: 2100
+Condidate: ['0', '8', '9'] and number: 2571
+Condidate: ['0', '8'] and number: 3322
+Condidate: ['0', '9'] and number: 3061
+Condidate: ['0'] and number: 4046
+Condidate: ['3', '4', '5', '8', '9'] and number: 921
+Condidate: ['3', '4', '5', '8'] and number: 1132
+Condidate: ['3', '4', '5', '9'] and number: 1038
+Condidate: ['3', '4', '5'] and number: 1300
+Condidate: ['3', '4', '6', '8'] and number: 938
+Condidate: ['3', '4', '6', '9'] and number: 858
+Condidate: ['3', '4', '6'] and number: 1054
+Condidate: ['3', '4', '7', '8', '9'] and number: 951
+Condidate: ['3', '4', '7', '8'] and number: 1168
+Condidate: ['3', '4', '7', '9'] and number: 1070
+Condidate: ['3', '4', '7'] and number: 1322
+Condidate: ['3', '4', '8', '9'] and number: 1585
+Condidate: ['3', '4', '8'] and number: 2054
+Condidate: ['3', '4', '9'] and number: 1856
+Condidate: ['3', '4'] and number: 2441
+Condidate: ['3', '5', '6', '8', '9'] and number: 1015
+Condidate: ['3', '5', '6', '8'] and number: 1190
+Condidate: ['3', '5', '6', '9'] and number: 1125
+Condidate: ['3', '5', '6'] and number: 1357
+Condidate: ['3', '5', '7', '8', '9'] and number: 1198
+Condidate: ['3', '5', '7', '8'] and number: 1454
+Condidate: ['3', '5', '7', '9'] and number: 1350
+Condidate: ['3', '5', '7'] and number: 1661
+Condidate: ['3', '5', '8', '9'] and number: 2114
+Condidate: ['3', '5', '8'] and number: 2685
+Condidate: ['3', '5', '9'] and number: 2454
+Condidate: ['3', '5'] and number: 3191
+Condidate: ['3', '6', '7', '8', '9'] and number: 1017
+Condidate: ['3', '6', '7', '8'] and number: 1216
+Condidate: ['3', '6', '7', '9'] and number: 1140
+Condidate: ['3', '6', '7'] and number: 1387
+Condidate: ['3', '6', '8', '9'] and number: 1700
+Condidate: ['3', '6', '8'] and number: 2130
+Condidate: ['3', '6', '9'] and number: 1955
+Condidate: ['3', '6'] and number: 2525
+Condidate: ['3', '7', '8', '9'] and number: 2099
+Condidate: ['3', '7', '8'] and number: 2646
+Condidate: ['3', '7', '9'] and number: 2450
+Condidate: ['3', '7'] and number: 3138
+Condidate: ['3', '8', '9'] and number: 3813
+Condidate: ['3', '8'] and number: 5091
+Condidate: ['3', '9'] and number: 4597
+Condidate: ['3'] and number: 6291
+Condidate: ['4', '5', '7'] and number: 853
+Condidate: ['4', '5', '8', '9'] and number: 1062
+Condidate: ['4', '5', '8'] and number: 1339
+Condidate: ['4', '5', '9'] and number: 1214
+Condidate: ['4', '5'] and number: 1560
+Condidate: ['4', '6', '8', '9'] and number: 891
+Condidate: ['4', '6', '8'] and number: 1090
+Condidate: ['4', '6', '9'] and number: 1000
+Condidate: ['4', '6'] and number: 1246
+Condidate: ['4', '7', '8', '9'] and number: 1101
+Condidate: ['4', '7', '8'] and number: 1383
+Condidate: ['4', '7', '9'] and number: 1261
+Condidate: ['4', '7'] and number: 1600
+Condidate: ['4', '8', '9'] and number: 1903
+Condidate: ['4', '8'] and number: 2516
+Condidate: ['4', '9'] and number: 2276
+Condidate: ['4'] and number: 3061
+Condidate: ['5', '6', '7'] and number: 924
+Condidate: ['5', '6', '8', '9'] and number: 1193
+Condidate: ['5', '6', '8'] and number: 1439
+Condidate: ['5', '6', '9'] and number: 1358
+Condidate: ['5', '6'] and number: 1682
+Condidate: ['5', '7', '8', '9'] and number: 1383
+Condidate: ['5', '7', '8'] and number: 1720
+Condidate: ['5', '7', '9'] and number: 1599
+Condidate: ['5', '7'] and number: 2019
+Condidate: ['5', '8', '9'] and number: 2552
+Condidate: ['5', '8'] and number: 3322
+Condidate: ['5', '9'] and number: 3048
+Condidate: ['5'] and number: 4056
+Condidate: ['6', '7', '8', '9'] and number: 1172
+Condidate: ['6', '7', '8'] and number: 1437
+Condidate: ['6', '7', '9'] and number: 1353
+Condidate: ['6', '7'] and number: 1690
+Condidate: ['6', '8', '9'] and number: 2072
+Condidate: ['6', '8'] and number: 2661
+Condidate: ['6', '9'] and number: 2451
+Condidate: ['6'] and number: 3236
+Condidate: ['7', '8', '9'] and number: 2548
+Condidate: ['7', '8'] and number: 3298
+Condidate: ['7', '9'] and number: 3043
+Condidate: ['7'] and number: 4014
+Condidate: ['8', '9'] and number: 4812
+Condidate: ['8'] and number: 6577
+Condidate: ['9'] and number: 5948
+執行時間(分): 0.0167005

@@ -1,0 +1,14 @@
+min_sup = 84
+condidate: ['11'], and count = 86
+condidate: ['17'], and count = 100
+condidate: ['28'], and count = 95
+condidate: ['3'], and count = 105
+condidate: ['36'], and count = 150
+condidate: ['38'], and count = 218
+condidate: ['40'], and count = 87
+condidate: ['48'], and count = 114
+condidate: ['63'], and count = 177
+condidate: ['69'], and count = 144
+condidate: ['8'], and count = 105
+condidate: ['85'], and count = 99
+condidate: ['87'], and count = 186

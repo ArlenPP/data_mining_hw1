@@ -1,8 +1,0 @@
-min_sup = 2
-Condidate: ['Bread', 'Egg', 'Milk'] and number: 2
-Condidate: ['Bread', 'Egg'] and number: 4
-Condidate: ['Bread', 'Milk'] and number: 4
-Condidate: ['Bread'] and number: 7
-Condidate: ['Egg', 'Milk'] and number: 4
-Condidate: ['Egg'] and number: 6
-Condidate: ['Milk'] and number: 6

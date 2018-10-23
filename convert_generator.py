@@ -1,4 +1,5 @@
 import csv
+from config import config
 def clearspace(str):
     for i in range(len(str)):
         if str[i] != ' ':
