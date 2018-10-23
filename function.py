@@ -1,6 +1,7 @@
 import csv
 from config import config
 from itertools import combinations
+import collections
 
 # return 二維array,每個element是一個transition log(裡面要在以逗點分開)
 def read_csv(csv_file_path):
@@ -44,6 +45,7 @@ def decide_min_sup(tran_log, f):
     s = ("min_sup = %d" % min_sup)
     write_report(f, s)
     print (s)
+    min_sup = int(min_sup)
     return min_sup
 
 def write_report(file, msg):
@@ -64,4 +66,10 @@ def count_cond_sup(cond, tran_log):
             count += 1
     return count
 
-    
+def sort_dict_keys(in_dict):
+        return collections.OrderedDict(sorted(in_dict.items()))
+
+def write_report_cond_num(file, cond, num):
+    s = "Condidate: " + str(cond) + " and number: " + str(num)
+    write_report(file, s)
+    print(s)

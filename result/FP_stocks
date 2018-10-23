@@ -1,0 +1,292 @@
+min_sup = 19
+Condidate: ['Afternoon with the baker'] and number: 44
+Condidate: ['Alfajores', 'Bread', 'Coffee'] and number: 41
+Condidate: ['Alfajores', 'Bread'] and number: 96
+Condidate: ['Alfajores', 'Brownie'] and number: 27
+Condidate: ['Alfajores', 'Cake', 'Coffee'] and number: 22
+Condidate: ['Alfajores', 'Cake'] and number: 39
+Condidate: ['Alfajores', 'Coffee', 'Hot chocolate'] and number: 19
+Condidate: ['Alfajores', 'Coffee', 'Tea'] and number: 29
+Condidate: ['Alfajores', 'Coffee'] and number: 185
+Condidate: ['Alfajores', 'Cookies'] and number: 23
+Condidate: ['Alfajores', 'Hot chocolate'] and number: 34
+Condidate: ['Alfajores', 'Juice'] and number: 29
+Condidate: ['Alfajores', 'Medialuna'] and number: 30
+Condidate: ['Alfajores', 'Pastry'] and number: 30
+Condidate: ['Alfajores', 'Sandwich'] and number: 25
+Condidate: ['Alfajores', 'Tea'] and number: 61
+Condidate: ['Alfajores'] and number: 344
+Condidate: ['Art Tray', 'Coffee'] and number: 26
+Condidate: ['Art Tray'] and number: 38
+Condidate: ['Baguette', 'Bread'] and number: 26
+Condidate: ['Baguette', 'Coffee'] and number: 27
+Condidate: ['Baguette'] and number: 152
+Condidate: ['Bakewell', 'Coffee'] and number: 29
+Condidate: ['Bakewell'] and number: 48
+Condidate: ['Bread', 'Brownie', 'Coffee'] and number: 35
+Condidate: ['Bread', 'Brownie'] and number: 101
+Condidate: ['Bread', 'Cake', 'Coffee'] and number: 94
+Condidate: ['Bread', 'Cake', 'Tea'] and number: 46
+Condidate: ['Bread', 'Cake'] and number: 220
+Condidate: ['Bread', 'Chicken Stew'] and number: 26
+Condidate: ['Bread', 'Coffee', 'Cookies'] and number: 48
+Condidate: ['Bread', 'Coffee', 'Hot chocolate'] and number: 57
+Condidate: ['Bread', 'Coffee', 'Juice'] and number: 28
+Condidate: ['Bread', 'Coffee', 'Medialuna'] and number: 63
+Condidate: ['Bread', 'Coffee', 'Muffin'] and number: 23
+Condidate: ['Bread', 'Coffee', 'NONE'] and number: 78
+Condidate: ['Bread', 'Coffee', 'Pastry'] and number: 99
+Condidate: ['Bread', 'Coffee', 'Sandwich'] and number: 68
+Condidate: ['Bread', 'Coffee', 'Scone'] and number: 33
+Condidate: ['Bread', 'Coffee', 'Soup'] and number: 21
+Condidate: ['Bread', 'Coffee', 'Spanish Brunch'] and number: 23
+Condidate: ['Bread', 'Coffee', 'Tea'] and number: 68
+Condidate: ['Bread', 'Coffee', 'Tiffin'] and number: 21
+Condidate: ['Bread', 'Coffee', 'Toast'] and number: 34
+Condidate: ['Bread', 'Coffee'] and number: 834
+Condidate: ['Bread', 'Cookies'] and number: 135
+Condidate: ['Bread', 'Farm House'] and number: 47
+Condidate: ['Bread', 'Focaccia'] and number: 19
+Condidate: ['Bread', 'Frittata'] and number: 25
+Condidate: ['Bread', 'Fudge'] and number: 30
+Condidate: ['Bread', 'Hearty & Seasonal'] and number: 25
+Condidate: ['Bread', 'Hot chocolate'] and number: 126
+Condidate: ['Bread', 'Jam'] and number: 46
+Condidate: ['Bread', 'Jammie Dodgers'] and number: 44
+Condidate: ['Bread', 'Juice'] and number: 70
+Condidate: ['Bread', 'Keeping It Local'] and number: 21
+Condidate: ['Bread', 'Medialuna', 'Pastry'] and number: 22
+Condidate: ['Bread', 'Medialuna', 'Tea'] and number: 19
+Condidate: ['Bread', 'Medialuna'] and number: 158
+Condidate: ['Bread', 'Mineral water'] and number: 30
+Condidate: ['Bread', 'Muffin'] and number: 77
+Condidate: ['Bread', 'NONE', 'Pastry'] and number: 19
+Condidate: ['Bread', 'NONE', 'Sandwich'] and number: 26
+Condidate: ['Bread', 'NONE', 'Tea'] and number: 34
+Condidate: ['Bread', 'NONE'] and number: 194
+Condidate: ['Bread', 'Pastry', 'Tea'] and number: 23
+Condidate: ['Bread', 'Pastry'] and number: 268
+Condidate: ['Bread', 'Salad'] and number: 19
+Condidate: ['Bread', 'Sandwich', 'Tea'] and number: 26
+Condidate: ['Bread', 'Sandwich'] and number: 160
+Condidate: ['Bread', 'Scandinavian'] and number: 61
+Condidate: ['Bread', 'Scone'] and number: 85
+Condidate: ['Bread', 'Smoothies'] and number: 23
+Condidate: ['Bread', 'Soup'] and number: 62
+Condidate: ['Bread', 'Spanish Brunch'] and number: 45
+Condidate: ['Bread', 'Tea'] and number: 262
+Condidate: ['Bread', 'Tiffin'] and number: 45
+Condidate: ['Bread', 'Toast'] and number: 72
+Condidate: ['Bread', 'Truffles'] and number: 47
+Condidate: ['Bread'] and number: 3099
+Condidate: ['Brownie', 'Cake', 'Coffee'] and number: 20
+Condidate: ['Brownie', 'Cake'] and number: 41
+Condidate: ['Brownie', 'Coffee', 'Hot chocolate'] and number: 23
+Condidate: ['Brownie', 'Coffee', 'Tea'] and number: 19
+Condidate: ['Brownie', 'Coffee'] and number: 184
+Condidate: ['Brownie', 'Cookies'] and number: 24
+Condidate: ['Brownie', 'Hot chocolate'] and number: 39
+Condidate: ['Brownie', 'Juice'] and number: 24
+Condidate: ['Brownie', 'Medialuna'] and number: 19
+Condidate: ['Brownie', 'NONE'] and number: 23
+Condidate: ['Brownie', 'Pastry'] and number: 23
+Condidate: ['Brownie', 'Sandwich'] and number: 22
+Condidate: ['Brownie', 'Tea'] and number: 62
+Condidate: ['Brownie'] and number: 379
+Condidate: ['Cake', 'Coffee', 'Cookies'] and number: 40
+Condidate: ['Cake', 'Coffee', 'Hot chocolate'] and number: 63
+Condidate: ['Cake', 'Coffee', 'Juice'] and number: 37
+Condidate: ['Cake', 'Coffee', 'Medialuna'] and number: 21
+Condidate: ['Cake', 'Coffee', 'Muffin'] and number: 21
+Condidate: ['Cake', 'Coffee', 'NONE'] and number: 32
+Condidate: ['Cake', 'Coffee', 'Pastry'] and number: 26
+Condidate: ['Cake', 'Coffee', 'Sandwich'] and number: 44
+Condidate: ['Cake', 'Coffee', 'Scone'] and number: 26
+Condidate: ['Cake', 'Coffee', 'Soup'] and number: 23
+Condidate: ['Cake', 'Coffee', 'Tea'] and number: 93
+Condidate: ['Cake', 'Coffee'] and number: 512
+Condidate: ['Cake', 'Cookies'] and number: 69
+Condidate: ['Cake', 'Hot chocolate', 'Tea'] and number: 19
+Condidate: ['Cake', 'Hot chocolate'] and number: 106
+Condidate: ['Cake', 'Jammie Dodgers'] and number: 29
+Condidate: ['Cake', 'Juice'] and number: 67
+Condidate: ['Cake', 'Medialuna'] and number: 33
+Condidate: ['Cake', 'Muffin'] and number: 45
+Condidate: ['Cake', 'NONE'] and number: 48
+Condidate: ['Cake', 'Pastry'] and number: 48
+Condidate: ['Cake', 'Sandwich'] and number: 65
+Condidate: ['Cake', 'Scone'] and number: 44
+Condidate: ['Cake', 'Soup'] and number: 41
+Condidate: ['Cake', 'Spanish Brunch'] and number: 22
+Condidate: ['Cake', 'Tea'] and number: 219
+Condidate: ['Cake', 'Tiffin'] and number: 22
+Condidate: ['Cake', 'Toast'] and number: 21
+Condidate: ['Cake', 'Truffles'] and number: 25
+Condidate: ['Cake'] and number: 985
+Condidate: ['Chicken Stew', 'Coffee'] and number: 49
+Condidate: ['Chicken Stew', 'Sandwich'] and number: 19
+Condidate: ['Chicken Stew', 'Tea'] and number: 29
+Condidate: ['Chicken Stew'] and number: 123
+Condidate: ['Coffee', 'Coke', 'Sandwich'] and number: 19
+Condidate: ['Coffee', 'Coke'] and number: 61
+Condidate: ['Coffee', 'Cookies', 'Hot chocolate'] and number: 34
+Condidate: ['Coffee', 'Cookies', 'Juice'] and number: 35
+Condidate: ['Coffee', 'Cookies', 'NONE'] and number: 20
+Condidate: ['Coffee', 'Cookies', 'Tea'] and number: 35
+Condidate: ['Coffee', 'Cookies'] and number: 265
+Condidate: ['Coffee', 'Extra Salami or Feta'] and number: 31
+Condidate: ['Coffee', 'Farm House'] and number: 62
+Condidate: ['Coffee', 'Frittata'] and number: 41
+Condidate: ['Coffee', 'Fudge'] and number: 30
+Condidate: ['Coffee', 'Hearty & Seasonal'] and number: 54
+Condidate: ['Coffee', 'Hot chocolate', 'Medialuna'] and number: 27
+Condidate: ['Coffee', 'Hot chocolate', 'NONE'] and number: 34
+Condidate: ['Coffee', 'Hot chocolate', 'Pastry'] and number: 35
+Condidate: ['Coffee', 'Hot chocolate', 'Sandwich'] and number: 24
+Condidate: ['Coffee', 'Hot chocolate'] and number: 275
+Condidate: ['Coffee', 'Jam'] and number: 38
+Condidate: ['Coffee', 'Jammie Dodgers'] and number: 62
+Condidate: ['Coffee', 'Juice', 'NONE'] and number: 39
+Condidate: ['Coffee', 'Juice', 'Sandwich'] and number: 26
+Condidate: ['Coffee', 'Juice', 'Tea'] and number: 19
+Condidate: ['Coffee', 'Juice'] and number: 194
+Condidate: ['Coffee', 'Keeping It Local'] and number: 51
+Condidate: ['Coffee', 'Medialuna', 'NONE'] and number: 26
+Condidate: ['Coffee', 'Medialuna', 'Pastry'] and number: 45
+Condidate: ['Coffee', 'Medialuna', 'Tea'] and number: 35
+Condidate: ['Coffee', 'Medialuna'] and number: 329
+Condidate: ['Coffee', 'Mineral water'] and number: 51
+Condidate: ['Coffee', 'Muffin', 'Tea'] and number: 27
+Condidate: ['Coffee', 'Muffin'] and number: 177
+Condidate: ['Coffee', 'NONE', 'Pastry'] and number: 27
+Condidate: ['Coffee', 'NONE', 'Sandwich'] and number: 48
+Condidate: ['Coffee', 'NONE', 'Spanish Brunch'] and number: 23
+Condidate: ['Coffee', 'NONE', 'Tea'] and number: 56
+Condidate: ['Coffee', 'NONE', 'Toast'] and number: 27
+Condidate: ['Coffee', 'NONE'] and number: 395
+Condidate: ['Coffee', 'Pastry', 'Tea'] and number: 44
+Condidate: ['Coffee', 'Pastry'] and number: 440
+Condidate: ['Coffee', 'Salad'] and number: 61
+Condidate: ['Coffee', 'Sandwich', 'Soup'] and number: 33
+Condidate: ['Coffee', 'Sandwich', 'Tea'] and number: 51
+Condidate: ['Coffee', 'Sandwich', 'Truffles'] and number: 20
+Condidate: ['Coffee', 'Sandwich'] and number: 360
+Condidate: ['Coffee', 'Scandinavian'] and number: 46
+Condidate: ['Coffee', 'Scone', 'Tea'] and number: 32
+Condidate: ['Coffee', 'Scone'] and number: 170
+Condidate: ['Coffee', 'Smoothies'] and number: 38
+Condidate: ['Coffee', 'Soup', 'Tea'] and number: 25
+Condidate: ['Coffee', 'Soup'] and number: 148
+Condidate: ['Coffee', 'Spanish Brunch'] and number: 102
+Condidate: ['Coffee', 'Tartine'] and number: 29
+Condidate: ['Coffee', 'Tea', 'Toast'] and number: 31
+Condidate: ['Coffee', 'Tea'] and number: 462
+Condidate: ['Coffee', 'The Nomad'] and number: 31
+Condidate: ['Coffee', 'Tiffin'] and number: 79
+Condidate: ['Coffee', 'Toast'] and number: 222
+Condidate: ['Coffee', 'Truffles'] and number: 71
+Condidate: ['Coffee', 'Vegan mincepie'] and number: 29
+Condidate: ['Coffee'] and number: 4548
+Condidate: ['Coke', 'Juice'] and number: 21
+Condidate: ['Coke', 'NONE'] and number: 21
+Condidate: ['Coke', 'Sandwich'] and number: 48
+Condidate: ['Coke', 'Tea'] and number: 21
+Condidate: ['Coke'] and number: 184
+Condidate: ['Cookies', 'Hot chocolate'] and number: 56
+Condidate: ['Cookies', 'Juice'] and number: 58
+Condidate: ['Cookies', 'Medialuna'] and number: 24
+Condidate: ['Cookies', 'NONE'] and number: 27
+Condidate: ['Cookies', 'Pastry'] and number: 27
+Condidate: ['Cookies', 'Sandwich'] and number: 27
+Condidate: ['Cookies', 'Scone'] and number: 19
+Condidate: ['Cookies', 'Tea'] and number: 90
+Condidate: ['Cookies', 'Toast'] and number: 21
+Condidate: ['Cookies'] and number: 515
+Condidate: ['Eggs'] and number: 28
+Condidate: ['Extra Salami or Feta'] and number: 38
+Condidate: ['Farm House', 'Medialuna'] and number: 22
+Condidate: ['Farm House', 'Pastry'] and number: 25
+Condidate: ['Farm House'] and number: 371
+Condidate: ['Focaccia'] and number: 54
+Condidate: ['Frittata'] and number: 81
+Condidate: ['Fudge', 'Jam'] and number: 24
+Condidate: ['Fudge'] and number: 142
+Condidate: ['Granola'] and number: 28
+Condidate: ['Hearty & Seasonal', 'Tea'] and number: 19
+Condidate: ['Hearty & Seasonal'] and number: 100
+Condidate: ['Hot chocolate', 'Juice'] and number: 21
+Condidate: ['Hot chocolate', 'Medialuna'] and number: 43
+Condidate: ['Hot chocolate', 'Muffin'] and number: 34
+Condidate: ['Hot chocolate', 'NONE'] and number: 56
+Condidate: ['Hot chocolate', 'Pastry'] and number: 53
+Condidate: ['Hot chocolate', 'Sandwich'] and number: 41
+Condidate: ['Hot chocolate', 'Scone'] and number: 28
+Condidate: ['Hot chocolate', 'Tea'] and number: 74
+Condidate: ['Hot chocolate', 'Toast'] and number: 29
+Condidate: ['Hot chocolate'] and number: 552
+Condidate: ['Jam'] and number: 142
+Condidate: ['Jammie Dodgers', 'Juice'] and number: 20
+Condidate: ['Jammie Dodgers', 'Tea'] and number: 24
+Condidate: ['Jammie Dodgers'] and number: 125
+Condidate: ['Juice', 'Medialuna'] and number: 20
+Condidate: ['Juice', 'Muffin'] and number: 26
+Condidate: ['Juice', 'NONE'] and number: 58
+Condidate: ['Juice', 'Pastry'] and number: 22
+Condidate: ['Juice', 'Sandwich'] and number: 55
+Condidate: ['Juice', 'Scone'] and number: 19
+Condidate: ['Juice', 'Spanish Brunch'] and number: 26
+Condidate: ['Juice', 'Tea'] and number: 67
+Condidate: ['Juice', 'Toast'] and number: 22
+Condidate: ['Juice', 'Truffles'] and number: 19
+Condidate: ['Juice'] and number: 365
+Condidate: ['Keeping It Local'] and number: 63
+Condidate: ['Medialuna', 'Muffin'] and number: 19
+Condidate: ['Medialuna', 'NONE'] and number: 38
+Condidate: ['Medialuna', 'Pastry'] and number: 85
+Condidate: ['Medialuna', 'Sandwich'] and number: 20
+Condidate: ['Medialuna', 'Tea'] and number: 75
+Condidate: ['Medialuna'] and number: 585
+Condidate: ['Mineral water', 'NONE'] and number: 26
+Condidate: ['Mineral water', 'Sandwich'] and number: 31
+Condidate: ['Mineral water'] and number: 135
+Condidate: ['Muffin', 'NONE'] and number: 20
+Condidate: ['Muffin', 'Pastry'] and number: 23
+Condidate: ['Muffin', 'Sandwich'] and number: 20
+Condidate: ['Muffin', 'Tea'] and number: 62
+Condidate: ['Muffin'] and number: 365
+Condidate: ['NONE', 'Pastry'] and number: 44
+Condidate: ['NONE', 'Sandwich', 'Tea'] and number: 25
+Condidate: ['NONE', 'Sandwich'] and number: 86
+Condidate: ['NONE', 'Spanish Brunch'] and number: 34
+Condidate: ['NONE', 'Tea'] and number: 171
+Condidate: ['NONE', 'Toast'] and number: 36
+Condidate: ['NONE', 'Truffles'] and number: 27
+Condidate: ['NONE'] and number: 753
+Condidate: ['Pastry', 'Scone'] and number: 23
+Condidate: ['Pastry', 'Tea'] and number: 90
+Condidate: ['Pastry'] and number: 815
+Condidate: ['Salad', 'Tea'] and number: 19
+Condidate: ['Salad'] and number: 99
+Condidate: ['Sandwich', 'Soup'] and number: 52
+Condidate: ['Sandwich', 'Tea'] and number: 135
+Condidate: ['Sandwich', 'Truffles'] and number: 36
+Condidate: ['Sandwich'] and number: 680
+Condidate: ['Scandinavian'] and number: 275
+Condidate: ['Scone', 'Tea'] and number: 79
+Condidate: ['Scone'] and number: 327
+Condidate: ['Smoothies'] and number: 77
+Condidate: ['Soup', 'Tea'] and number: 86
+Condidate: ['Soup'] and number: 327
+Condidate: ['Spanish Brunch', 'Tea'] and number: 44
+Condidate: ['Spanish Brunch'] and number: 172
+Condidate: ['Tartine'] and number: 46
+Condidate: ['Tea', 'Tiffin'] and number: 32
+Condidate: ['Tea', 'Toast'] and number: 60
+Condidate: ['Tea', 'Truffles'] and number: 28
+Condidate: ['Tea'] and number: 1352
+Condidate: ['The Nomad'] and number: 58
+Condidate: ['Tiffin'] and number: 146
+Condidate: ['Toast'] and number: 318
+Condidate: ['Truffles'] and number: 192
+Condidate: ['Tshirt'] and number: 21
+Condidate: ['Vegan mincepie'] and number: 52
