@@ -1,0 +1,15 @@
+min_sup = 1
+condidate: ['Beer'], and count = 2
+condidate: ['Bread'], and count = 7
+condidate: ['Coffee'], and count = 2
+condidate: ['Egg'], and count = 6
+condidate: ['Milk'], and count = 6
+condidate: ['Beer', 'Bread'], and count = 2
+condidate: ['Beer', 'Milk'], and count = 2
+condidate: ['Bread', 'Coffee'], and count = 2
+condidate: ['Bread', 'Egg'], and count = 4
+condidate: ['Egg', 'Milk'], and count = 4
+condidate: ['Bread', 'Milk'], and count = 4
+condidate: ['Beer', 'Bread', 'Milk'], and count = 2
+condidate: ['Bread', 'Egg', 'Milk'], and count = 2
+執行時間(分): 7.233333333333333e-06

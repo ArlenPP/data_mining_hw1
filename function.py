@@ -20,32 +20,6 @@ def list_get_set(tran_log_list):
         tmp_arr.extend(tran)
     return set(tmp_arr)
 
-# def set_get_combinations(log_set):
-#     cand_arr = []
-#     count_arr = []
-#     # start from 0 to len -1
-#     for n in range(len(log_set)):
-#         n = n + 1
-#         tmp = list(combinations(log_set, n))
-
-#         for i in tmp:
-#             i = list(i)
-#             cand_arr.append(i)
-#             count_arr.append(0)
-
-#     return cand_arr, count_arr
-
-# def count_condidate(cand_arr, count_arr, tran_log_list):
-#     for log in tran_log_list:
-#        for idx, candidate in enumerate(cand_arr):
-#             if(set(log).issubset(set(candidate))):
-#                 count_arr[idx] += 1
-
-# def print_min_support(cand_arr, count_arr, min_sup):
-#     for idx, num in enumerate(count_arr):
-#         if (num >= min_sup):
-#             print("condidate: " + str(cand_arr[idx]) + "count = " + str(count_arr[idx]))
-
 def force_counter(tran_log_list, log_set, min_sup, f):
     cond_dict = {}
     cond_dict['min_sup']: min_sup
@@ -89,17 +63,5 @@ def count_cond_sup(cond, tran_log):
         if cond_set.issubset(log):
             count += 1
     return count
-
-def FP_growth_step1(tran_log, log_set):
-    d = {}
-    log_set_list = list(log_set)
-    log_set_list.sort()
-    for s in log_set_list:
-        tmp = []
-        tmp.append(s)
-        count = count_cond_sup(tmp, tran_log)
-        d[s]= count
-    sorted_dict = [(k, d[k]) for k in sorted(d, key=d.get, reverse=True)]
-    return sorted_dict
 
     

@@ -3,11 +3,11 @@ import function as fu
 import datetime
 
 if __name__ == '__main__':
-    
+    data = 'test_data'
     cond_dict = {}
-    f = open(config['result_path'] + "force_kaggle", newline='\n', mode='w')
+    f = open(config['result_path'] + "force_" + data, newline='\n', mode='w')
 
-    tran_log_list = fu.read_csv(config['dataset_path']+'stocks.csv')
+    tran_log_list = fu.read_csv(config['dataset_path']+data+'.csv')
     log_set = fu.list_get_set(tran_log_list)
     min_sup = fu.decide_min_sup(tran_log_list, f)
     
