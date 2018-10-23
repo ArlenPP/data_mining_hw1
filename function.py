@@ -1,5 +1,5 @@
 import csv
-import config
+from config import config
 from itertools import combinations
 
 # return 二維array,每個element是一個transition log(裡面要在以逗點分開)
@@ -45,3 +45,27 @@ def print_min_support(cand_arr, count_arr, min_sup):
     for idx, num in enumerate(count_arr):
         if (num >= min_sup):
             print("condidate: " + str(cand_arr[idx]) + "count = " + str(count_arr[idx]))
+
+def force_counter(tran_log_list, log_set, min_sup):
+    cond_dict = {}
+    cond_dict['min_sup']: min_sup
+    for n in range(len(log_set)):
+        n = n + 1
+        tmp = list(combinations(log_set, n))
+        tmp.sort()
+        for cond in tmp:
+            count = 0
+            tmp_cond = list(cond)
+            tmp_cond.sort()
+            for log in tran_log_list:
+                if set(tmp_cond).issubset(set(log)):
+                    count += 1
+            if count >= min_sup:
+                print("condidate: " + str(tmp_cond) + ", and count = " + str(count))
+                cond_dict[str(tmp_cond)]: count
+    return cond_dict
+
+def decide_min_sup(tran_log):
+    min_sup = len(tran_log)*config['min_sup']
+    print ("min_sup = %d" % min_sup)
+    return min_sup
