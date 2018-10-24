@@ -6,7 +6,7 @@ import datetime
 
 if __name__ == '__main__':
     before = datetime.datetime.now()
-    data = 'data.ntrans_10.nitems_0.01.tlen_5'
+    data = 'data.ntrans_10.nitems_0.1.tlen_5'
     f = open(config['result_path'] + "FP_" + data, newline='\n', mode='w')
 
     cond_dict = {}
